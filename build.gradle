@@ -54,7 +54,7 @@ repositories {
 
 // Project dependencies
 dependencies {
-    compile 'org.spongepowered:spongeapi:4.1.0-SNAPSHOT'
+    compile 'org.spongepowered:spongeapi:5.0.0-20161003.175748-144'
 }
 
 // Filter, process, and include resources
